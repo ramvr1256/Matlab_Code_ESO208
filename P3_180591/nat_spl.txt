@@ -1,0 +1,32 @@
+The Interval for Interpolation 0.000000 to 0.500000 
+a3 = 2.508267
+a2 = 0.000000
+a1 = 0.668933
+a0 = 1.000000
+The Value of the first derivative at first node is 0.6689 and at second node is 2.5501 
+The Value of the second derivative at first node is 0.0000 and at second node is 7.5248 
+
+The Interval for Interpolation 0.500000 to 1.000000 
+a3 = -1.640533
+a2 = -6.223200
+a1 = -4.323867
+a0 = 2.459200
+The Value of the first derivative at first node is -11.7775 and at second node is -21.6919 
+The Value of the second derivative at first node is 7.5248 and at second node is 2.6032 
+
+The Interval for Interpolation 1.000000 to 1.500000 
+a3 = 1.205333
+a2 = 2.314400
+a1 = 3.586667
+a0 = 0.240400
+The Value of the first derivative at first node is 11.8315 and at second node is 18.6659 
+The Value of the second derivative at first node is 2.6032 and at second node is 6.2192 
+
+The Interval for Interpolation 1.500000 to 2.000000 
+a3 = -2.073067
+a2 = -12.438400
+a1 = -18.542533
+a0 = 11.305000
+The Value of the first derivative at first node is -69.8509 and at second node is -93.1729 
+The Value of the second derivative at first node is 6.2192 and at second node is 0.0000 
+
