@@ -1,0 +1,12 @@
+Eigenvalues=
+11.999979
+
+
+Eigenvector=
+0.409245
+-0.816097
+0.408049
+
+
+Iterations
+11
